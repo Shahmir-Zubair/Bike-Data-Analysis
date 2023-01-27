@@ -16,3 +16,9 @@ Until now, Cyclistic’s marketing strategy relied on building general awareness
 Cyclistic’s ﬁnance analysts have concluded that annual members are much more proﬁtable than casual riders. Although the pricing ﬂexibility helps Cyclistic attract more customers, Moreno believes that maximizing the number of annual members will be key to future growth. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a very good chance to convert casual riders into members. She notes that casual riders are already aware of the Cyclistic program and have chosen Cyclistic for their mobility needs.<br />
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders diﬀer, why casual riders would buy a membership, and how digital media could aﬀect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.<br />
+
+Three questions will guide the future marketing program:<br />
+1.	How do annual members and casual riders use Cyclistic bikes diﬀerently?<br />
+2.	Why would casual riders buy Cyclistic annual memberships?<br />
+3.	How can Cyclistic use digital media to inﬂuence casual riders to become members?<br />
+ 
